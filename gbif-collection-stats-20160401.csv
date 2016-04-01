@@ -1,0 +1,17 @@
+dataset,date_checked,records,swe,swe_georef,swe_georef_noissue,taxon_match_none,taxon_match_higher_rank,taxon_match_fuzzy
+Phanerogamic Botanical Collections (S),2016-04-01,1 030 627,645 103,2 232,2 095,10 347,61 744,5 893
+Algae (S),2016-04-01,15 953,5 211,4 027,3 283,623,274,30
+Fungi (S),2016-04-01,327 284,159 924,145 255,133 478,2 367,2 409,451
+Mosses (S),2016-04-01,209 691,109 603,95 717,82 469,3 052,9 584,391
+Lund Botanical Museum (LD),2016-04-01,777 837,549 862,533 277,531 998,423,39 322,2 893
+Invertebrates Collection of the Swedish Museum of Natural History,2016-04-01,144 765,44 496,34 200,33 158,296,893,395
+Botany (UPS),2016-04-01,706 679,416 566,12 576,12 096,5 436,42 292,3 661
+Lund Museum of Zoology – Insect collections (MZLU),2016-04-01,157 566,20 347,0,0,5,1 203,449
+"Entomological Collections (NHRS), Swedish Museum of Natural History (NRM)",2016-04-01,100 658,44 878,32 875,32 528,0,2 007,684
+Zoology (Museum of Evolution – Uppsala),2016-04-01,259 949,78 163,1 452,310,0,6 441,1 347
+NRM-Fishes,2016-04-01,51 499,10 864,10 316,10 062,0,138,9
+Gothenburg Herbarium – General (GBIF:IH:GB:Herbarium),2016-04-01,151 334,101 320,101 317,97 495,28,4 352,429
+Gothenburg Herbarium – Types (GBIF:IH:GB:Herbarium),2016-04-01,2 217,128,128,114,0,23,8
+Vertebrates of the Gothenburg Natural History Museum (GNM),2016-04-01,55 816,27 240,0,0,0,235,18
+Invertebrates of the Gothenburg Natural History Museum (GNM),2016-04-01,46 710,36 803,0,0,0,489,791
+OHN,2016-04-01,146 809,133 226,133 226,127 897,11,7 993,476
