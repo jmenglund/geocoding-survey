@@ -18,12 +18,12 @@ Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF
 | Kolumn                    | Beskrivning                                     |
 | ------------------------- | ----------------------------------------------- |
 | dataset                   | namn på datasetet                               |
-| date\_checked             | datum då kontrollen gjordes på GBIF             |
-| records                   | totalt antal poster                             |
+| date\_checked             | datum då kontrollen gjordes på GBIF             |
+| records                   | totalt antal poster                             |
 | swe                       | antal svenska poster                            |
 | swe\_georef               | antal georefererade svenska poster              |
 | swe\_georef\_noissue      | antal georefererade svenska poster utan problem |
-| taxon\_match\_none        | antal svenska poster utan matchande taxon       |
+| taxon\_match\_none        | antal svenska poster utan matchande taxon       |
 | taxon_match\_higher\_rank | antal svenska poster som matchar högre taxon    |
 | taxon\_match\_fuzzy       | antal svenska poster med oskarp taxonmatchning  |
 
