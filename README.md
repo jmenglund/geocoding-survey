@@ -2,10 +2,14 @@
 
 Här finns en sammanställning över lokalinformation i naturhistoriska samlingar i Sverige. Materialet har tagits fram för att ge en bakgrund till ansökan om  finansiering av DINA-projektet från Svenska artprojektet för perioden 2017–2019.
 
-Se även ArtDatabankens information om stöd till biologiska samlingar: [](http://www.artdatabanken.se/verksamhet-och-uppdrag/svenska-artprojektet/stoed-till-biologiska-samlingar/)
+Se även ArtDatabankens information om stöd till biologiska samlingar: [http://www.artdatabanken.se/verksamhet-och-uppdrag/svenska-artprojektet/stoed-till-biologiska-samlingar/](http://www.artdatabanken.se/verksamhet-och-uppdrag/svenska-artprojektet/stoed-till-biologiska-samlingar/)
 
 
 Detta repo innehåller två filer:
+
+* gbif-collection-stats-20160401.csv
+* geocoding-survey.ipynb
+
 
 #### gbif-collection-stats-20160401.csv
 
