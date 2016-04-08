@@ -15,17 +15,17 @@ Detta repo innehåller två filer:
 
 Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF. Filen har följande innehåll:
 
-| Kolumn                  | Beskrivning                                     |
-| ----------------------- | ----------------------------------------------- |
-| dataset                 | namn på datasetet                               |
-| date_checked            | datum då kontrollen gjordes på GBIF             |
-| records                 | totalt antal poster                             |
-| swe                     | antal svenska poster                            |
-| swe_georef              | antal georefererade svenska poster              |
-| swe_georef_noissue      | antal georefererade svenska poster utan problem |
-| taxon_match_none        | antal svenska poster utan matchande taxon       |
-| taxon_match_higher_rank | antal svenska poster som matchar högre taxon    |
-| taxon_match_fuzzy       | antal svenska poster med oskarp taxonmatchning  |
+| Kolumn                    | Beskrivning                                     |
+| ------------------------- | ----------------------------------------------- |
+| dataset                   | namn på datasetet                               |
+| date\_checked             | datum då kontrollen gjordes på GBIF             |
+| records                   | totalt antal poster                             |
+| swe                       | antal svenska poster                            |
+| swe\_georef               | antal georefererade svenska poster              |
+| swe\_georef\_noissue      | antal georefererade svenska poster utan problem |
+| taxon\_match\_none        | antal svenska poster utan matchande taxon       |
+| taxon_match\_higher\_rank | antal svenska poster som matchar högre taxon    |
+| taxon\_match\_fuzzy       | antal svenska poster med oskarp taxonmatchning  |
 
 
 #### geocoding-survey.ipynb
