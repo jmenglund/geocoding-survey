@@ -19,7 +19,7 @@ Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF
 | ------------------------- | ----------------------------------------------- |
 | dataset                   | namn på datasetet                               |
 | url                       | Webbadress till dataset                         |
-| date\_published           | datum då kontrollen gjordes på GBIF             |
+| date\_published           | datum då datasetet publicerades på GBIF         |
 | records                   | totalt antal poster                             |
 | swe                       | antal svenska poster                            |
 | swe\_georef               | antal georefererade svenska poster              |
