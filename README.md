@@ -13,7 +13,7 @@ Detta repo innehåller två filer:
 
 #### gbif-collection-stats-20160401.csv
 
-Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF. Filen har följande innehåll:
+Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF 2016-04-01. Filen har följande innehåll:
 
 | Kolumn                    | Beskrivning                                     |
 | ------------------------- | ----------------------------------------------- |
@@ -31,4 +31,4 @@ Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF
 
 #### geocoding-survey.ipynb
 
-[Jupyter Notebook](http://jupyter.org) med lite mer detaljerade uppgifter om den geografiska informationen i några samlingar vid Naturhistoriska riksmuseet i Stockholm.
+En [Jupyter Notebook](http://jupyter.org) med lite mer detaljerade uppgifter om den geografiska informationen i några samlingar vid Naturhistoriska riksmuseet i Stockholm.
