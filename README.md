@@ -32,3 +32,5 @@ Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF
 #### geocoding-survey.ipynb
 
 En [Jupyter Notebook](http://jupyter.org) med lite mer detaljerade uppgifter om den geografiska informationen i några samlingar vid Naturhistoriska riksmuseet i Stockholm.
+
+Rådata som ligger till grund för statistiken skickas vid förfrågan. Kontakta [Markus Englund](http://www.nrm.se/ommuseet/kontakt/sokmedarbetare) vid Naturhistoriska riksmuseet.
