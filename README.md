@@ -13,12 +13,13 @@ Detta repo innehåller två filer:
 
 #### gbif-collection-stats-20160401.csv
 
-Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF 2016-04-01. Filen har följande innehåll:
+Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF under april 2016. Filen har följande innehåll:
 
 | Kolumn                    | Beskrivning                                     |
 | ------------------------- | ----------------------------------------------- |
 | dataset                   | namn på datasetet                               |
 | url                       | webbadress till dataset                         |
+| date\_checked             | datum då uppgifterna hämtades från GBIF         |
 | date\_published           | datum då datasetet publicerades på GBIF         |
 | records                   | totalt antal poster                             |
 | swe                       | antal svenska poster                            |
@@ -27,6 +28,8 @@ Genomgång av geografisk och taxonomisk information för svenska poster hos GBIF
 | taxon\_match\_none        | antal svenska poster utan matchande taxon       |
 | taxon_match\_higher\_rank | antal svenska poster som matchar högre taxon    |
 | taxon\_match\_fuzzy       | antal svenska poster med oskarp taxonmatchning  |
+| dataset_sv                | svensk benämning på datasetet (som används här) |
+
 
 
 #### geocoding-survey.ipynb
